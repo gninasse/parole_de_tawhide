@@ -1,0 +1,6 @@
+{
+  "name": "Parole d'Unicité",
+  "description": "Livre numérique interactif de l'Explication de la Parole d'Unicité par l'Érudit Dr. Rabî' Ibn Hâdî Al-Madkhalî.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
